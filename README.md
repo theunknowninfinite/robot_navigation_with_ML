@@ -22,4 +22,4 @@ Python Packages Needed\
 
 # Contents of Folders
 * Code has the code used for the Project
-* Figures contains all the figures used in the prentation and report
+* Figures contains all the figures used in the presentation and report
